@@ -1,6 +1,8 @@
+< [!Note]
 Objetivo: 
 Crear una aplicación backend simple usando VSCode, NodeJs y NPM.
 
+< [!Tip]
 Consigna:
 Crear una aplicación adivina_numero_secreto que contenga el código del juego:
 ● Genera un número aleatorio entre 1 y 100 para que el usuario lo adivine.
