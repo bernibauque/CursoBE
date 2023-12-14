@@ -1,10 +1,11 @@
 > [!NOTE]
-Objetivo  
+> Objetivo  
 El objetivo de este trabajo práctico es que los alumnos desarrollen una API RESTful utilizando  
 Express.js para la gestión de libros. La API permitirá realizar operaciones básicas como crear, leer,  
-actualizar y eliminar libros, así como obtener una lista de todos los libros disponibles.  
+actualizar y eliminar libros, así como obtener una lista de todos los libros disponibles.
+
 > [!TIP]
-Consigna  
+> Consigna  
 1. La API debe seguir los principios de arquitectura RESTful y utilizar los métodos HTTP  
 adecuados para cada operación.  
 2. La API debe implementar las siguientes rutas y funcionalidades:  
